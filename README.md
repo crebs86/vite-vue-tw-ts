@@ -1,6 +1,10 @@
 # vue-tw-bs
 
+<<<<<<< HEAD
 Base para App com Vite, VueJS, Pinia, Cores do Tailwind e Bootstrap 5
+=======
+Base para App com Vite, VueJS, Pinia, Tailwind e Bootstrap 5
+>>>>>>> 354c14fb2f36c6f786532f3478f5785592f2723d
 
 ## Recommended IDE Setup
 
