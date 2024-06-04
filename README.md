@@ -1,6 +1,6 @@
-# vue-rw-bs
+# vue-tw-bs
 
-This template should help get you started developing with Vue 3 in Vite.
+Base para App com Vite, VueJS, Pinia, Cores do Tailwind e Bootstrap 5
 
 ## Recommended IDE Setup
 
