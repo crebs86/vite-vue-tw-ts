@@ -1,4 +1,9 @@
+<script setup lang="ts">
+import Navbar from '@/components/NavBar.vue'
+</script>
+
 <template>
+  <Navbar />
   <div class="container d-flex gap-4 mt-4">
 
     <!-- Button trigger modal -->

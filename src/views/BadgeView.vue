@@ -1,4 +1,10 @@
+<script setup lang="ts">
+import Navbar from '@/components/NavBar.vue'
+</script>
+
 <template>
+
+  <Navbar />
   <div class="container my-2">
 
     <div>

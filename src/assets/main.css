@@ -5,3 +5,7 @@
 @import './tw-text.css';
 @import './tw-bg-hover.css';
 @import './tw-text-hover.css';
+
+.justify-text {
+  text-align: justify;
+}
